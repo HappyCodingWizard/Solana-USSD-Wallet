@@ -1,7 +1,18 @@
 
 # 3 Bob
-> 3BOB is a Solana Based USSD, SMS and PWA trading platform built to bridge the gap between the crypto world and Mobile money users in East Africa for transaction fees as low as Kshs 3 ($0.03) without the need for internet connection.
 
+3BOB is a Solana Based USSD, SMS and PWA trading platform built to bridge the gap between the crypto world and Mobile money users in East Africa for transaction fees as low as Kshs 3 ($0.03) without the need for internet connection.
+
+The crypto Bridge integrates digital Currencies (Assets) for instance Bitcoin, Ethereum and USDT/USDC with local (fiat) currencies for instance Kenya Shillings.
+The bridge enables users to move local currency to digital currency and vice versa at a very low transaction fee.
+
+Note: Built on Solana Blockchain providing for lower cost and faster way to access crypto access than the tradionation blockchains such as ethereum where txn fees are significant and would deter local adoption.
+
+## Tech Stack & Technology used
+- Solana Blockchain 
+- Web3 Js
+- Typscript 
+- JavaScript 
   
 
 ## Getting Started
