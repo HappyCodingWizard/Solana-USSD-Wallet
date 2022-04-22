@@ -76,3 +76,9 @@ $: npm run dev
   
 
 This project is licensed under the MIT License
+
+DISCLAIMER: This is a demo codebase from our private repositories for the above project. Contact us for more information if you find this dApp of interest.
+
+Relevant Blockchains: [Solana]
+
+dApp Completion date: [Jun 8, 2021]
